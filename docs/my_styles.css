@@ -1,11 +1,38 @@
+body{
+  background-color: #b8c1ec;
+}
+
+
 .banner {
   width: 128px;
   height: 128px;
   object-fit: cover;
   border-radius: 128px;
+  border: solid #994ff3;
+
 }
 
 .icons {
   width: 22px;
   height: 22px;
+  border-radius: 48px;
+  object-fit: cover;
+  border: .1rem solid #994ff3;
+
+}
+
+.name {
+ color: #232946;
+}
+
+.link {
+  color: #001e1d;
+  text-decoration: none;
+}
+
+.items{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 640px;
 }
