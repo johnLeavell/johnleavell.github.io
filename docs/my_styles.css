@@ -1,7 +1,7 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #004643;
+  background-color: #0ee9de;
   display: flex;
   justify-content: center;
 }
@@ -27,7 +27,7 @@ body {
 }
 
 .social-icons a {
-  color: #fffffe;
+  color: #29d8de;
   text-decoration: none
 }
 
