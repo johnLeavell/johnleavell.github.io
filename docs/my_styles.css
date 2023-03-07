@@ -1,16 +1,16 @@
 body {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #0ee9de;
+  background-color: #004643;
   display: flex;
   justify-content: center;
 }
 
 .banner-image {
-  width: 128px;
-  height: 128px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
-  border-radius: 128px;
+  border-radius: 200px;
 }
 
 .thumbnail {
@@ -27,12 +27,14 @@ body {
 }
 
 .social-icons a {
-  color: #29d8de;
-  text-decoration: none
+  color: #000000;
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
 }
 
 .link {
-  background-color: #f9bc60;
+  background-color: #170f04;
   display: flex;
   align-items: center;
   padding: 5px;
