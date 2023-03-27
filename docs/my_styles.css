@@ -33,7 +33,7 @@ body {
 }
 
 /* Link styles */
-.link:a {
+.link a {
   align-items: center;
 }
 .link {
