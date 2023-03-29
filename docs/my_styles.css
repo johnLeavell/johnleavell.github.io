@@ -1,4 +1,6 @@
 /* Global styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 :root {
   --primary-color: #23a6d5;
   --secondary-color: #4eb5f1;
